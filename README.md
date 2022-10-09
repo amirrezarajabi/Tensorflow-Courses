@@ -19,3 +19,6 @@ My experiences of learning Tensorflow and the courses I took
         *   ####    [Certificate](./DeepLearningAI-TensorFlow-Developer-Professional-Certificate/C2-Convolutional-Neural-Networks-in-TensorFlow/Certificate.pdf)
     *   ### [Natural Language Processing in TensorFlow](./DeepLearningAI-TensorFlow-Developer-Professional-Certificate/C3-Natural-Language-Processing-in-TensorFlow/)
         *   ####    [week1](./DeepLearningAI-TensorFlow-Developer-Professional-Certificate/C3-Natural-Language-Processing-in-TensorFlow/week1/)
+        *   ####    [week2](./DeepLearningAI-TensorFlow-Developer-Professional-Certificate/C3-Natural-Language-Processing-in-TensorFlow/week2/)
+        *   ####    [week3](./DeepLearningAI-TensorFlow-Developer-Professional-Certificate/C3-Natural-Language-Processing-in-TensorFlow/week3/)
+[//]: <>        *   ####    [week4](./DeepLearningAI-TensorFlow-Developer-Professional-Certificate/C3-Natural-Language-Processing-in-TensorFlow/week4/)
