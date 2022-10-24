@@ -8,5 +8,5 @@ My experiences of learning Tensorflow and the courses I took
     *   ### Convolutional Neural Networks in TensorFlow
     *   ### Natural Language Processing in TensorFlow
     *   ### Sequences Time Serirs and Prediction
-    *   ### [Certificate]()
+    *   ### [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/75QW3C6JU45R)
     *   ![](./DeepLearningAI-TensorFlow-Developer-Professional-Certificate/Certificate.jpg)
