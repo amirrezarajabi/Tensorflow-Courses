@@ -30,4 +30,4 @@ My experiences of learning Tensorflow and the courses I took
         *   ####    [week4](./C4-Sequences-Time-Serirs-and-Prediction/week4/)
         *   ####    [certificate](./C4-Sequences-Time-Serirs-and-Prediction/Certificate.pdf)
 
-![] (./Certificate.jpg)
+![](./Certificate.jpg)
